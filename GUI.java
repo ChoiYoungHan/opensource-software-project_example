@@ -3,6 +3,6 @@ public class GUI{
 		System.out.println("GUI");
 		System.out.println("add oneline");
 		
-		int x = 0;
+		int x = 3;
 	}
 }
