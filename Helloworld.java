@@ -10,5 +10,6 @@ public class Main{
 		// change in gui branch
 		int y = 1;
 
+		int x = 1;
 	}
 }
